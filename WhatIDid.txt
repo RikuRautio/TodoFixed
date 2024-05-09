@@ -1,0 +1,2 @@
+Link to github repo: https://github.com/RikuRautio/TodoFixed
+Parts I've implemented: I implemented parts 1-7 of the todo task.
